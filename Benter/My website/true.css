@@ -1,0 +1,42 @@
+body{
+  padding: 0px;
+  background-color: aqua;
+  border: 10px solid brown;
+  
+}
+img{
+  padding-bottom: 50px;
+  height: 500px;
+  width: 500px;
+  display: block;
+flex-direction: column;
+flex-grow: inherit;
+}
+nav{
+  margin: 0 auto;
+  padding: 5px;
+  margin-right: 0;
+  margin-left: 0;
+}
+nav>ul{
+  text-align:center;
+}
+nav>ul>li{
+  display:inline-block;
+  padding: 20px;
+}
+div>h3{
+  font-size: 50px;
+  color:green;
+  }
+  nav>ul>li>a{
+    font-size: 50px;
+    text-decoration: none;
+  }
+  ol>li{
+    font-size:20px;
+  }
+
+
+
+
